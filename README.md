@@ -33,3 +33,6 @@ print(result)  # Output: 8
 # Square Root
 result = calculator.sqrt(16)
 print(result)  # Output: 4.0
+```python
+
+[![Check Style](https://github.com/sowirodu/Calculator-Test/actions/workflows/styles.yaml/badge.svg)](https://github.com/sowirodu/Calculator-Test/actions/workflows/styles.yaml)
