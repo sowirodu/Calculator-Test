@@ -1,13 +1,13 @@
 # Calculator Class
 
-The `Calc` class is a simple calculator implementation that provides basic mathematical operations.
+The **Calc** class is a simple calculator implementation that provides basic mathematical operations.
 
 ## Usage
 
-Instantiate the `Calc` class and use its methods to perform calculations.
+Start the **Calc** class and use its methods to perform calculations.
 
 ```python
-# Instantiate the Calc class
+# Start the Calc class
 calculator = Calc()
 
 # Addition
